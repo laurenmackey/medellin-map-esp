@@ -1,0 +1,45 @@
+Html, body, div {
+    Padding: 0;
+    Border: 0;
+    Margin: 0;
+}
+
+.svg-container {
+    height: 0px;
+    padding-bottom: 87.5%;
+}
+
+.svg-content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#QOL_Key rect {
+    cursor: help;
+}
+
+.timelineCircles circle {
+    cursor: pointer;
+}
+
+.closeButton {
+    cursor: pointer;
+}
+
+#QOL_Key_Description, #_x32_005, #_x32_006, #_x32_007, #_x32_008, #_x32_009, #_x32_010, #_x32_011, #_x32_012, #_x32_013, #_x32_014,
+.metrocableKDot, .metrocableKDescription, .caraboboDot, .lb_SanJavierDot, .caraboboDescription, .lb_SanJavierDescription,
+.lb_EspanaDot, .lb_LaderaDot, .lb_LaQuintanaDot, .puenteDot, .granizalDot, .lb_EspanaDescription, .lb_LaderaDescription,
+.lb_LaQuintanaDescription, .puenteDescription, .granizalDescription, .metrocableJDot, .lb_BelenDot,
+.cultCenterDot, .colegioDot, .metrocableJDescription, .lb_BelenDescription, .cultCenterDescription,
+.colegioDescription, .infantilDot, .infantilDescription, .moraDot, .moraDescription, .lb_ManuelDot, .comuna_13Dot,
+.lb_ManuelDescription, .comuna_13Description, .exploraDot, .exploraDescription {
+    display: none;
+}
+
+#Title {
+    cursor: pointer;
+}
+
+
+
